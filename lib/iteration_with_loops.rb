@@ -17,6 +17,3 @@ def find_greater_pair(src)
   end
   new_array
 end
-
-
-
